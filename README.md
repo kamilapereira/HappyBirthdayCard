@@ -1,4 +1,4 @@
-# Cup Cake App/Happy Birthday App
+# Happy Birthday App
 
 This is an app where it shows a Happy Birthday card.
 
